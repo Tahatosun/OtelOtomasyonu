@@ -1,0 +1,45 @@
+C:\Users\Ayşe Nur BAKIRCI\source\repos\otelRezervasyonSistemi\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.csprojAssemblyReference.cache
+C:\Users\Ayşe Nur BAKIRCI\source\repos\otelRezervasyonSistemi\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.AnaEkran.resources
+C:\Users\Ayşe Nur BAKIRCI\source\repos\otelRezervasyonSistemi\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.Properties.Resources.resources
+C:\Users\Ayşe Nur BAKIRCI\source\repos\otelRezervasyonSistemi\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\Ayşe Nur BAKIRCI\source\repos\otelRezervasyonSistemi\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe Nur BAKIRCI\source\repos\otelRezervasyonSistemi\otelRezervasyonSistemi\bin\Debug\otelRezervasyonSistemi.exe.config
+C:\Users\Ayşe Nur BAKIRCI\source\repos\otelRezervasyonSistemi\otelRezervasyonSistemi\bin\Debug\otelRezervasyonSistemi.exe
+C:\Users\Ayşe Nur BAKIRCI\source\repos\otelRezervasyonSistemi\otelRezervasyonSistemi\bin\Debug\otelRezervasyonSistemi.pdb
+C:\Users\Ayşe Nur BAKIRCI\source\repos\otelRezervasyonSistemi\otelRezervasyonSistemi\bin\Debug\MetroFramework.dll
+C:\Users\Ayşe Nur BAKIRCI\source\repos\otelRezervasyonSistemi\otelRezervasyonSistemi\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ayşe Nur BAKIRCI\source\repos\otelRezervasyonSistemi\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.musteriEkrani.resources
+C:\Users\Ayşe Nur BAKIRCI\source\repos\otelRezervasyonSistemi\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.csproj.CopyComplete
+C:\Users\Ayşe Nur BAKIRCI\source\repos\otelRezervasyonSistemi\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.exe
+C:\Users\Ayşe Nur BAKIRCI\source\repos\otelRezervasyonSistemi\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.pdb
+C:\Users\Ayşe Nur BAKIRCI\source\repos\otelRezervasyonSistemi\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.yetkiliEkrani.resources
+C:\Users\Taha\Desktop\Odev\otelRezervasyonSistemi\bin\Debug\otelRezervasyonSistemi.exe.config
+C:\Users\Taha\Desktop\Odev\otelRezervasyonSistemi\bin\Debug\otelRezervasyonSistemi.exe
+C:\Users\Taha\Desktop\Odev\otelRezervasyonSistemi\bin\Debug\otelRezervasyonSistemi.pdb
+C:\Users\Taha\Desktop\Odev\otelRezervasyonSistemi\bin\Debug\MetroFramework.dll
+C:\Users\Taha\Desktop\Odev\otelRezervasyonSistemi\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Taha\Desktop\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.csprojAssemblyReference.cache
+C:\Users\Taha\Desktop\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.AnaEkran.resources
+C:\Users\Taha\Desktop\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.musteriEkrani.resources
+C:\Users\Taha\Desktop\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.Properties.Resources.resources
+C:\Users\Taha\Desktop\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.yetkiliEkrani.resources
+C:\Users\Taha\Desktop\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.csproj.CopyComplete
+C:\Users\Taha\Desktop\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.exe
+C:\Users\Taha\Desktop\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.pdb
+C:\Users\tahat\OneDrive\Masaüstü\PROJECt\Odev\Odev\otelRezervasyonSistemi\bin\Debug\otelRezervasyonSistemi.exe.config
+C:\Users\tahat\OneDrive\Masaüstü\PROJECt\Odev\Odev\otelRezervasyonSistemi\bin\Debug\otelRezervasyonSistemi.exe
+C:\Users\tahat\OneDrive\Masaüstü\PROJECt\Odev\Odev\otelRezervasyonSistemi\bin\Debug\otelRezervasyonSistemi.pdb
+C:\Users\tahat\OneDrive\Masaüstü\PROJECt\Odev\Odev\otelRezervasyonSistemi\bin\Debug\MetroFramework.dll
+C:\Users\tahat\OneDrive\Masaüstü\PROJECt\Odev\Odev\otelRezervasyonSistemi\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tahat\OneDrive\Masaüstü\PROJECt\Odev\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.csprojAssemblyReference.cache
+C:\Users\tahat\OneDrive\Masaüstü\PROJECt\Odev\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.AnaEkran.resources
+C:\Users\tahat\OneDrive\Masaüstü\PROJECt\Odev\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.musteriEkrani.resources
+C:\Users\tahat\OneDrive\Masaüstü\PROJECt\Odev\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.Properties.Resources.resources
+C:\Users\tahat\OneDrive\Masaüstü\PROJECt\Odev\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.yetkiliEkrani.resources
+C:\Users\tahat\OneDrive\Masaüstü\PROJECt\Odev\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\tahat\OneDrive\Masaüstü\PROJECt\Odev\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\tahat\OneDrive\Masaüstü\PROJECt\Odev\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.csproj.CopyComplete
+C:\Users\tahat\OneDrive\Masaüstü\PROJECt\Odev\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.exe
+C:\Users\tahat\OneDrive\Masaüstü\PROJECt\Odev\Odev\otelRezervasyonSistemi\obj\Debug\otelRezervasyonSistemi.pdb
